@@ -23,4 +23,4 @@
 
 ### Flowchart Program
 
-![ss3](foto/ss3.png)
+![ss3](foto/ss3.PNG)
