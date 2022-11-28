@@ -14,13 +14,13 @@
  Menginputkan "C" apabila ingin mencari data. anda akan akan diminta menginputkan nama.
  Jika data sudah selesai diinput, pilih menu "K" maka program akan berhenti.
 
-![ss2]foto/ss2.PNG
+![ss2](foto/ss2.PNG)
 
  OUTPUT 
 
-![ss1]foto/ss1.PNG
+![ss1](foto/ss1.PNG)
 
 
 ### Flowchart Program
 
-![ss3]foto/ss3.PNG
+![ss3](foto/ss3.PNG)
