@@ -1,5 +1,4 @@
 # Proses / Langkah-Langkah Praktikum 6
-## Membuat dictionary dari daftar kontak
 
 
 
